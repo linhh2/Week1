@@ -1,0 +1,22 @@
+1. What is HTML 
+- HTML: Hyper Text Markup Language (Ngôn ngữ đánh dấu siêu văn bản)
+- Mục đích: Giúp định dạng thiết kế cấu trúc các thành phần của 1 trang web
+- HTML không phải là một programming language vì không có sự logic và bản chất của HTMl là tạo ra văn bản của một trang web
+- HTML trình bày dữ liệu(text paragraph, heading, bullet list, images...) của một trang web dưới dạng các elements
+
+2. Describe HTML Page Structure
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>...</title>
+</head>
+
+<body>
+	<h1>...</h1>
+	<p>...</p>
+</body>
+
+</html>
+
+*Dữ liệu trong mục "body" sẽ được trình chiếu trên trang web. Dữ liệu trong mục "title" sẽ được trình chiếu trên browser's title bar (the page's tab)
